@@ -5,7 +5,7 @@ header:
   image: /assets/images/header.jpg
 ---
 
-I'm a CPU architect in Austin, TX. I'm passionate about high performance architectures, memory systems, clever solutions, and well-written code. I'm always looking for better and more efficient ways to do things. I received my PhD in computer engineering from the University of Wisconsin--Madison, with my dissertation work focusing on design for reliability. Since beginning my career in industry, I have immensly enjoyed modeling and developing state-of-the-art prefetching and caching hardware. I'm currently part of the server performance group at AMD.
+I'm a CPU architect in Austin, TX. I'm passionate about high performance architectures, memory systems, clever solutions, and well-written code. I'm always looking for better and more efficient ways to do things. I received my PhD in computer engineering from the University of Wisconsin--Madison, with my dissertation work focusing on design for reliability. Since beginning my career in industry, I have immensely enjoyed modeling and developing state-of-the-art prefetching and caching hardware. I'm currently part of the server performance group at AMD.
 
 ## Publications
 
